@@ -1,1 +1,10 @@
 getcomics.info
+boston.com
+theblaze.com
+nypost.com
+thedailybeast.com
+independent.co.uk
+cnn.com
+timesofindia.indiatimes.com
+yahoo.com
+walmart.com
